@@ -1,1 +1,1 @@
-# gobasescan
+# go_basescan readme
